@@ -1,0 +1,6 @@
+"Start"
+"Talk Zaid  oh..  what a nice game !"
+"Talk Yazan  yes..  i see..."
+"Talk Lynda  Let's to play..."
+"End"
+"End Commands"
