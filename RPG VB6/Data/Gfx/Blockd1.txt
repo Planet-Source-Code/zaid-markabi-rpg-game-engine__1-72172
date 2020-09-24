@@ -1,0 +1,5 @@
+"Floor"
+"Door"
+"Map001.txt"
+"2"
+"3"

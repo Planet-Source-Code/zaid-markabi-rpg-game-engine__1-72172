@@ -1,0 +1,16 @@
+RPG Game Engine
+--- ---- ------
+
+[RPG Game Engine] is open source code engine, let you to make your own rpg game, support SellerS+Wars+Story+Commands during the game, also it save any change on the map after skip to other.. and let you to add more blocks and items on the game.. it's the most complex RPG maker on VB 6.0 !
+
+
+FOR MORE APPLCATONS
+http://www.yazanmarkabi.webs.com/
+
+FOR ANY SUGGESTINGS
+ZaidMarkabi@yahoo.com
+
+
+______________________________________
+Zaid Markabi ,
+Arabic Syrian Programmer
